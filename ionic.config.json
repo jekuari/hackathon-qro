@@ -1,0 +1,7 @@
+{
+  "name": "hackathon-qro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
